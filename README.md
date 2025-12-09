@@ -1,5 +1,5 @@
-*Soy Alejandro Navas Rodríguez*
-Estudiante Desarrollador Multiplataforma | Full Stack Junior
+Soy Alejandro Navas Rodríguez,
+estudiante Desarrollador Multiplataforma | Full Stack Junior
 Sevilla, España
 ____________________________________________________________________________________________________________________________________________________________________________________
 Soy estudiante del Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) en el Instituto IES Julio Verne.
