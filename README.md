@@ -1,16 +1,35 @@
-## Hi there 👋
+Soy Julián Navas Medina
+Desarrollador Multiplataforma | Full Stack Junior
+Sevilla, España
 
-<!--
-**Ale-Navas/Ale-Navas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante del Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) en el Instituto Nuestra Señora de los Reyes.
+Me apasiona la programación, la tecnología y la resolución de problemas. Me considero una persona perfeccionista, competitiva y con muchas ganas de aprender.
+Me adapto fácilmente a nuevos entornos y disfruto trabajando en equipo para alcanzar objetivos comunes.
 
-Here are some ideas to get you started:
+Tecnologías y herramientas
+Lenguajes: Python, Java, Kotlin, HTML, CSS, SQL, C, XML
+Frameworks: Bootstrap, Angular, IONIC
+Control de versiones: Git / GitHub
+Bases de datos: Oracle, MariaDB, MySQL
+Otros: Administración básica de sistemas Windows y Linux, Virtualización con VirtualBox
+Experiencia
+Inova (2023 – 2024)
+Prácticas en desarrollo y soporte técnico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desarrollo y mantenimiento de sistemas informáticos
+Resolución de incidencias y soporte a usuarios
+NTT Data (2024 – 2025)
+Prácticas en consultoría tecnológica
+
+Participación en proyectos de transformación digital
+Colaboración con equipos de desarrollo y análisis
+Habilidades personales
+Resolución de problemas
+Pensamiento lógico y analítico
+Trabajo en equipo
+Adaptabilidad
+Organización y responsabilidad
+Aprendizaje continuo
+Contacto
+Correo: jnavasmedina@safareyes.es
+Ubicación: Sevilla, España
